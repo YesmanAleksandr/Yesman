@@ -1,7 +1,8 @@
 Script started on 2020-03-13 20:37:00+0300
 ]0;user1@comp1: ~[01;32muser1@comp1[00m:[01;34m~[00m$ date +"Today is "%d", "%B", "%Y[C
 Today is 13, марта, 2020
-]0;user1@comp1: ~[01;32muser1@comp1[00m:[01;34m~[00m$ date +"Today is "%d", "%B", "%Y[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kdate +"The time now is "%R
+]0;user1@comp1: ~[01;32muser1@comp1[00m:[01;34m~[00m$ date +"Today is "%d", "%B", "%Y
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kdate +"The time now is "%R
 The time now is 20:37
 ]0;user1@comp1: ~[01;32muser1@comp1[00m:[01;34m~[00m$ cal 3 2020
      Марта 2020       
