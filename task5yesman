@@ -1,0 +1,15 @@
+Script started on 2020-03-13 21:04:57+0300
+]0;user1@comp1: ~[01;32muser1@comp1[00m:[01;34m~[00m$ mkdir yesman
+]0;user1@comp1: ~[01;32muser1@comp1[00m:[01;34m~[00m$ cd yesman
+]0;user1@comp1: ~/yesman[01;32muser1@comp1[00m:[01;34m~/yesman[00m$ pwd
+/home/user1/yesman
+]0;user1@comp1: ~/yesman[01;32muser1@comp1[00m:[01;34m~/yesman[00m$ dc[K[Kcd ..
+]0;user1@comp1: ~[01;32muser1@comp1[00m:[01;34m~[00m$ pwd
+/home/user1
+]0;user1@comp1: ~[01;32muser1@comp1[00m:[01;34m~[00m$ cd yesman
+]0;user1@comp1: ~/yesman[01;32muser1@comp1[00m:[01;34m~/yesman[00m$ pwd
+/home/user1/yesman
+]0;user1@comp1: ~/yesman[01;32muser1@comp1[00m:[01;34m~/yesman[00m$ exit
+exit
+
+Script done on 2020-03-13 21:07:23+0300
