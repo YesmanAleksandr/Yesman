@@ -1,0 +1,33 @@
+Script started on 2020-03-15 19:07:37+0300
+]0;root@comp1: ~root@comp1:~# useradd -e 2020-06-01 -f 3 friend
+]0;root@comp1: ~root@comp1:~# passwd friend
+Введите новый пароль UNIX: 
+Повторите ввод нового пароля UNIX: 
+passwd: пароль успешно обновлён
+]0;root@comp1: ~root@comp1:~# su friend
+$ paswd^[[D^[[D          swd
+Смена пароля для friend.
+(текущий) пароль UNIX: 
+Введите новый пароль UNIX: 
+Повторите ввод нового пароля UNIX: 
+passwd: пароль успешно обновлён
+$ exit
+]0;root@comp1: ~root@comp1:~# chage -E 2020-08-14 friend
+]0;root@comp1: ~root@comp1:~# chfn -f Nick -o 12 -w 209-52-73 -h 217-52-73 friend
+]0;root@comp1: ~root@comp1:~# usermod -l guest friend
+]0;root@comp1: ~root@comp1:~# usermod -d /home/guest guest
+]0;root@comp1: ~root@comp1:~# groupadd guests
+]0;root@comp1: ~root@comp1:~# gpasswd -a guest guests
+Добавление пользователя guest в группу guests
+]0;root@comp1: ~root@comp1:~# gpasswd -A guest guests
+]0;root@comp1: ~root@comp1:~# gpasswd -a user1 guests[1P guests[1P guests[1P guests[1P guests[1P guestss guestst guestsu guestsd guestse guestsn guestst guests
+Добавление пользователя student в группу guests
+]0;root@comp1: ~root@comp1:~# groupmod -n friends guests
+]0;root@comp1: ~root@comp1:~# groupdel friends
+]0;root@comp1: ~root@comp1:~# userdel -r guest
+userdel: почтовый ящик guest (/var/mail/guest) не найден
+userdel: домашний каталог пользователя guest (/home/guest) не найден
+]0;root@comp1: ~root@comp1:~# exit
+exit
+
+Script done on 2020-03-15 19:19:15+0300
