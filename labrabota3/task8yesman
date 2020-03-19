@@ -1,0 +1,233 @@
+Script started on 2020-03-15 19:35:50+0300
+]0;root@comp1: ~root@comp1:~# exituserdel -r guest[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgroupdel friendsmod -n friends guests[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kcat /etc/shadow
+root:$6$45JLGxCk$QizvQLH1x0SQvFu66qWoLmlKDI7xHYVRe984K.6rxb.FdOLDFE.FD19QTO9DnZ7NvG0pVP5A8TkX/6J2RvXSG.:18335:0:99999:7:::
+daemon:*:17937:0:99999:7:::
+bin:*:17937:0:99999:7:::
+sys:*:17937:0:99999:7:::
+sync:*:17937:0:99999:7:::
+games:*:17937:0:99999:7:::
+man:*:17937:0:99999:7:::
+lp:*:17937:0:99999:7:::
+mail:*:17937:0:99999:7:::
+news:*:17937:0:99999:7:::
+uucp:*:17937:0:99999:7:::
+proxy:*:17937:0:99999:7:::
+www-data:*:17937:0:99999:7:::
+backup:*:17937:0:99999:7:::
+list:*:17937:0:99999:7:::
+irc:*:17937:0:99999:7:::
+gnats:*:17937:0:99999:7:::
+nobody:*:17937:0:99999:7:::
+systemd-network:*:17937:0:99999:7:::
+systemd-resolve:*:17937:0:99999:7:::
+syslog:*:17937:0:99999:7:::
+messagebus:*:17937:0:99999:7:::
+_apt:*:17937:0:99999:7:::
+uuidd:*:17937:0:99999:7:::
+avahi-autoipd:*:17937:0:99999:7:::
+usbmux:*:17937:0:99999:7:::
+dnsmasq:*:17937:0:99999:7:::
+rtkit:*:17937:0:99999:7:::
+cups-pk-helper:*:17937:0:99999:7:::
+speech-dispatcher:!:17937:0:99999:7:::
+whoopsie:*:17937:0:99999:7:::
+kernoops:*:17937:0:99999:7:::
+saned:*:17937:0:99999:7:::
+pulse:*:17937:0:99999:7:::
+avahi:*:17937:0:99999:7:::
+colord:*:17937:0:99999:7:::
+hplip:*:17937:0:99999:7:::
+geoclue:*:17937:0:99999:7:::
+gnome-initial-setup:*:17937:0:99999:7:::
+gdm:*:17937:0:99999:7:::
+user1:$6$YQlC4nPj$4nN1eaL5uZ7Vze/xhQzrhAh.PRFM0tX8/MYF3z4x6K.dcs3dJvpZfv0K8sbEdRYgAp6TIuD6oJIJvBIhQ/65p1:18010:0:99999:7:::
+student:!:18336:0:99999:7:::
+]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# useradd -o -u1000 -d /home/nouser -s /sbin/nologin -G users,mail teest1[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C -u1000 -d /home/nouser -s /sbin/nologin -G users,mail tes[1Pt1[A]0;root@comp1: ~root@comp1:~# [C[C[C[C[C[C[C[C[C -u1000 -d /home/nouser -s /sbin/nologin -G users,mail test[1P1[A]0;root@comp1: ~root@comp1:~# [C[C[C[C[C[C[C[C-u1000 -d /home/nouser -s /sbin/nologin -G users,mail test1[K[A]0;root@comp1: ~root@comp1:~# [C[C[C[C[C[C[C[C[C[C[C000 -d /home/nouser -s /sbin/nologin -G users,mail test1 [K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C2000 -d /home/nouser -s /sbin/nologin -G users,mail test11[A]0;root@comp1: ~root@comp1:~# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C -s /sbin/nologin -G users,mail test1 [K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cr -s /sbin/nologin -G users,mail test11[A]0;root@comp1: ~root@comp1:~# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C,mail test1 [K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[A
+]0;root@comp1: ~root@comp1:~# useradd test2
+]0;root@comp1: ~root@comp1:~# usermod -l test3 -d /home/test3 -m test2
+]0;root@comp1: ~root@comp1:~# eser[K[K[K[Kuserdel test3-test3rtest3 test3
+userdel: почтовый ящик test3 (/var/mail/test3) не найден
+userdel: домашний каталог пользователя test3 (/home/test3) не найден
+]0;root@comp1: ~root@comp1:~# useradd test4
+]0;root@comp1: ~root@comp1:~# passwd ta[Kest4
+Введите новый пароль UNIX: 
+Повторите ввод нового пароля UNIX: 
+passwd: пароль успешно обновлён
+]0;root@comp1: ~root@comp1:~# cat /etc/shadow
+root:$6$45JLGxCk$QizvQLH1x0SQvFu66qWoLmlKDI7xHYVRe984K.6rxb.FdOLDFE.FD19QTO9DnZ7NvG0pVP5A8TkX/6J2RvXSG.:18335:0:99999:7:::
+daemon:*:17937:0:99999:7:::
+bin:*:17937:0:99999:7:::
+sys:*:17937:0:99999:7:::
+sync:*:17937:0:99999:7:::
+games:*:17937:0:99999:7:::
+man:*:17937:0:99999:7:::
+lp:*:17937:0:99999:7:::
+mail:*:17937:0:99999:7:::
+news:*:17937:0:99999:7:::
+uucp:*:17937:0:99999:7:::
+proxy:*:17937:0:99999:7:::
+www-data:*:17937:0:99999:7:::
+backup:*:17937:0:99999:7:::
+list:*:17937:0:99999:7:::
+irc:*:17937:0:99999:7:::
+gnats:*:17937:0:99999:7:::
+nobody:*:17937:0:99999:7:::
+systemd-network:*:17937:0:99999:7:::
+systemd-resolve:*:17937:0:99999:7:::
+syslog:*:17937:0:99999:7:::
+messagebus:*:17937:0:99999:7:::
+_apt:*:17937:0:99999:7:::
+uuidd:*:17937:0:99999:7:::
+avahi-autoipd:*:17937:0:99999:7:::
+usbmux:*:17937:0:99999:7:::
+dnsmasq:*:17937:0:99999:7:::
+rtkit:*:17937:0:99999:7:::
+cups-pk-helper:*:17937:0:99999:7:::
+speech-dispatcher:!:17937:0:99999:7:::
+whoopsie:*:17937:0:99999:7:::
+kernoops:*:17937:0:99999:7:::
+saned:*:17937:0:99999:7:::
+pulse:*:17937:0:99999:7:::
+avahi:*:17937:0:99999:7:::
+colord:*:17937:0:99999:7:::
+hplip:*:17937:0:99999:7:::
+geoclue:*:17937:0:99999:7:::
+gnome-initial-setup:*:17937:0:99999:7:::
+gdm:*:17937:0:99999:7:::
+user1:$6$YQlC4nPj$4nN1eaL5uZ7Vze/xhQzrhAh.PRFM0tX8/MYF3z4x6K.dcs3dJvpZfv0K8sbEdRYgAp6TIuD6oJIJvBIhQ/65p1:18010:0:99999:7:::
+student:!:18336:0:99999:7:::
+test1:!:18336:0:99999:7:::
+test4:$6$PUYZ2DpX$vxUvajOsDqkS8vuqA5OvsrWvEV5xm7FAFdtxOoC3N.jNeQ5y3w/R2dsOfdCq5/vaQWH13JJTHQvoSTe649vDG0:18336:0:99999:7:::
+]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# chage -E 2020-12-31 test4
+]0;root@comp1: ~root@comp1:~# chage -E 2020-12-31 test4[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kcat /etc/shadow
+root:$6$45JLGxCk$QizvQLH1x0SQvFu66qWoLmlKDI7xHYVRe984K.6rxb.FdOLDFE.FD19QTO9DnZ7NvG0pVP5A8TkX/6J2RvXSG.:18335:0:99999:7:::
+daemon:*:17937:0:99999:7:::
+bin:*:17937:0:99999:7:::
+sys:*:17937:0:99999:7:::
+sync:*:17937:0:99999:7:::
+games:*:17937:0:99999:7:::
+man:*:17937:0:99999:7:::
+lp:*:17937:0:99999:7:::
+mail:*:17937:0:99999:7:::
+news:*:17937:0:99999:7:::
+uucp:*:17937:0:99999:7:::
+proxy:*:17937:0:99999:7:::
+www-data:*:17937:0:99999:7:::
+backup:*:17937:0:99999:7:::
+list:*:17937:0:99999:7:::
+irc:*:17937:0:99999:7:::
+gnats:*:17937:0:99999:7:::
+nobody:*:17937:0:99999:7:::
+systemd-network:*:17937:0:99999:7:::
+systemd-resolve:*:17937:0:99999:7:::
+syslog:*:17937:0:99999:7:::
+messagebus:*:17937:0:99999:7:::
+_apt:*:17937:0:99999:7:::
+uuidd:*:17937:0:99999:7:::
+avahi-autoipd:*:17937:0:99999:7:::
+usbmux:*:17937:0:99999:7:::
+dnsmasq:*:17937:0:99999:7:::
+rtkit:*:17937:0:99999:7:::
+cups-pk-helper:*:17937:0:99999:7:::
+speech-dispatcher:!:17937:0:99999:7:::
+whoopsie:*:17937:0:99999:7:::
+kernoops:*:17937:0:99999:7:::
+saned:*:17937:0:99999:7:::
+pulse:*:17937:0:99999:7:::
+avahi:*:17937:0:99999:7:::
+colord:*:17937:0:99999:7:::
+hplip:*:17937:0:99999:7:::
+geoclue:*:17937:0:99999:7:::
+gnome-initial-setup:*:17937:0:99999:7:::
+gdm:*:17937:0:99999:7:::
+user1:$6$YQlC4nPj$4nN1eaL5uZ7Vze/xhQzrhAh.PRFM0tX8/MYF3z4x6K.dcs3dJvpZfv0K8sbEdRYgAp6TIuD6oJIJvBIhQ/65p1:18010:0:99999:7:::
+student:!:18336:0:99999:7:::
+test1:!:18336:0:99999:7:::
+test4:$6$PUYZ2DpX$vxUvajOsDqkS8vuqA5OvsrWvEV5xm7FAFdtxOoC3N.jNeQ5y3w/R2dsOfdCq5/vaQWH13JJTHQvoSTe649vDG0:18336:0:99999:7::18627:
+]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# passwd test4 -d
+passwd: информация об истечении срока действия пароля изменена.
+]0;root@comp1: ~root@comp1:~# passwd test4 -d[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kcat /etc/shadow
+root:$6$45JLGxCk$QizvQLH1x0SQvFu66qWoLmlKDI7xHYVRe984K.6rxb.FdOLDFE.FD19QTO9DnZ7NvG0pVP5A8TkX/6J2RvXSG.:18335:0:99999:7:::
+daemon:*:17937:0:99999:7:::
+bin:*:17937:0:99999:7:::
+sys:*:17937:0:99999:7:::
+sync:*:17937:0:99999:7:::
+games:*:17937:0:99999:7:::
+man:*:17937:0:99999:7:::
+lp:*:17937:0:99999:7:::
+mail:*:17937:0:99999:7:::
+news:*:17937:0:99999:7:::
+uucp:*:17937:0:99999:7:::
+proxy:*:17937:0:99999:7:::
+www-data:*:17937:0:99999:7:::
+backup:*:17937:0:99999:7:::
+list:*:17937:0:99999:7:::
+irc:*:17937:0:99999:7:::
+gnats:*:17937:0:99999:7:::
+nobody:*:17937:0:99999:7:::
+systemd-network:*:17937:0:99999:7:::
+systemd-resolve:*:17937:0:99999:7:::
+syslog:*:17937:0:99999:7:::
+messagebus:*:17937:0:99999:7:::
+_apt:*:17937:0:99999:7:::
+uuidd:*:17937:0:99999:7:::
+avahi-autoipd:*:17937:0:99999:7:::
+usbmux:*:17937:0:99999:7:::
+dnsmasq:*:17937:0:99999:7:::
+rtkit:*:17937:0:99999:7:::
+cups-pk-helper:*:17937:0:99999:7:::
+speech-dispatcher:!:17937:0:99999:7:::
+whoopsie:*:17937:0:99999:7:::
+kernoops:*:17937:0:99999:7:::
+saned:*:17937:0:99999:7:::
+pulse:*:17937:0:99999:7:::
+avahi:*:17937:0:99999:7:::
+colord:*:17937:0:99999:7:::
+hplip:*:17937:0:99999:7:::
+geoclue:*:17937:0:99999:7:::
+gnome-initial-setup:*:17937:0:99999:7:::
+gdm:*:17937:0:99999:7:::
+user1:$6$YQlC4nPj$4nN1eaL5uZ7Vze/xhQzrhAh.PRFM0tX8/MYF3z4x6K.dcs3dJvpZfv0K8sbEdRYgAp6TIuD6oJIJvBIhQ/65p1:18010:0:99999:7:::
+student:!:18336:0:99999:7:::
+test1:!:18336:0:99999:7:::
+test4::18336:0:99999:7::18627:
+]0;root@comp1: ~root@comp1:~# cat /etc/shadow[Kcat /etc/shadow[Kcat /etc/shadow[3Ppasswd test4[1@userad[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K[Kpasswd test4 -l
+passwd: информация об истечении срока действия пароля изменена.
+]0;root@comp1: ~root@comp1:~# addgroup --gid 1010 xusers
+Добавляется группа «xusers» (GID 1010) ...
+Готово.
+]0;root@comp1: ~root@comp1:~# adduser user1 xusers
+Добавляется пользователь «user1» в группу «xusers» ...
+Добавление пользователя user1 в группу xusers
+Готово.
+]0;root@comp1: ~root@comp1:~# groupmod xusers -n yusers
+]0;root@comp1: ~root@comp1:~# last
+user1    tty3                          Sat Mar 14 22:10 - 22:10  (00:00)
+temp     tty4                          Sat Mar 14 21:50 - 21:50  (00:00)
+user1    tty4                          Sat Mar 14 21:49 - 21:49  (00:00)
+temp     tty5                          Sat Mar 14 21:38 - 21:39  (00:00)
+user1    :0           :0               Sat Mar 14 21:11    gone - no logout
+reboot   system boot  4.18.0-18-generi Sat Mar 14 21:11   still running
+reboot   system boot  4.18.0-18-generi Sat Mar 14 21:09   still running
+user1    :0           :0               Wed Mar 11 13:29 - crash (3+07:39)
+
+wtmp begins Wed Mar 11 13:29:14 2020
+]0;root@comp1: ~root@comp1:~# last |head -1
+user1    tty3                          Sat Mar 14 22:10 - 22:10  (00:00)
+]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# [K]0;root@comp1: ~root@comp1:~# last -s-14days
+user1    tty3                          Sat Mar 14 22:10 - 22:10  (00:00)
+temp     tty4                          Sat Mar 14 21:50 - 21:50  (00:00)
+user1    tty4                          Sat Mar 14 21:49 - 21:49  (00:00)
+temp     tty5                          Sat Mar 14 21:38 - 21:39  (00:00)
+user1    :0           :0               Sat Mar 14 21:11    gone - no logout
+reboot   system boot  4.18.0-18-generi Sat Mar 14 21:11   still running
+reboot   system boot  4.18.0-18-generi Sat Mar 14 21:09   still running
+user1    :0           :0               Wed Mar 11 13:29 - crash (3+07:39)
+
+wtmp begins Wed Mar 11 13:29:14 2020
+]0;root@comp1: ~root@comp1:~# exit
+exit
+
+Script done on 2020-03-15 20:54:02+0300
